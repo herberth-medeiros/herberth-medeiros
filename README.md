@@ -73,7 +73,7 @@ Me chamo **Herberth Medeiros**, atuo na área de desenvolvimento e possuo habili
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=herberth-medeiros&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
